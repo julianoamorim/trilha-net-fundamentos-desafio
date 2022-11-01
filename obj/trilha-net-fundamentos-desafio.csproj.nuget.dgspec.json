@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documentos\\Tecnologia Informacao\\DIO\\workspace\\DOTNET\\trilha-net-fundamentos-desafio\\trilha-net-fundamentos-desafio.csproj": {}
+  },
+  "projects": {
+    "D:\\Documentos\\Tecnologia Informacao\\DIO\\workspace\\DOTNET\\trilha-net-fundamentos-desafio\\trilha-net-fundamentos-desafio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\Tecnologia Informacao\\DIO\\workspace\\DOTNET\\trilha-net-fundamentos-desafio\\trilha-net-fundamentos-desafio.csproj",
+        "projectName": "trilha-net-fundamentos-desafio",
+        "projectPath": "D:\\Documentos\\Tecnologia Informacao\\DIO\\workspace\\DOTNET\\trilha-net-fundamentos-desafio\\trilha-net-fundamentos-desafio.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\Tecnologia Informacao\\DIO\\workspace\\DOTNET\\trilha-net-fundamentos-desafio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
