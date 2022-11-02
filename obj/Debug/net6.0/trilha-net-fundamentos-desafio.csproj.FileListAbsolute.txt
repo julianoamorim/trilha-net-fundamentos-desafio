@@ -1,0 +1,15 @@
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\bin\Debug\net6.0\trilha-net-fundamentos-desafio.exe
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\bin\Debug\net6.0\trilha-net-fundamentos-desafio.deps.json
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\bin\Debug\net6.0\trilha-net-fundamentos-desafio.runtimeconfig.json
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\bin\Debug\net6.0\trilha-net-fundamentos-desafio.dll
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\bin\Debug\net6.0\trilha-net-fundamentos-desafio.pdb
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\trilha-net-fundamentos-desafio.csproj.AssemblyReference.cache
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\trilha-net-fundamentos-desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\trilha-net-fundamentos-desafio.AssemblyInfoInputs.cache
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\trilha-net-fundamentos-desafio.AssemblyInfo.cs
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\trilha-net-fundamentos-desafio.csproj.CoreCompileInputs.cache
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\trilha-net-fundamentos-desafio.dll
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\refint\trilha-net-fundamentos-desafio.dll
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\trilha-net-fundamentos-desafio.pdb
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\trilha-net-fundamentos-desafio.genruntimeconfig.cache
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\trilha-net-fundamentos-desafio\obj\Debug\net6.0\ref\trilha-net-fundamentos-desafio.dll
